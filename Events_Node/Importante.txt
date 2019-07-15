@@ -1,0 +1,8 @@
+1. Instalar dependencias con el comando: npm install
+2. Iniciar el servicio mongod.exe en el ordenador
+3. Ejecutar el proyecto con el comando: npm start
+
+*** Iniciar Sesión ***
+
+user: enrique@mail.com
+pass: 1234
